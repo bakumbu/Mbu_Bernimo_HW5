@@ -1,0 +1,85 @@
+Industry Title,Industry Code,Industry Type,2023 Employment,2023 Percent of Occupation,2023 Percent of Industry,Projected 2033 Employment,Projected 2033 Percent of Occupation,Projected 2033 Percent of Industry,"Employment Change, 2023-2033","Employment Percent Change, 2023-2033",Industry Sort,Display Level
+Total employment,TE1000,Summary,544.4,100,0.3,554.5,100,0.3,10.1,1.9,,0
+Self-employed workers,TE1100,Line Item,289.2,53.1,3,285.6,51.5,2.9,-3.6,-1.2,2,1
+Total wage and salary employment,TE1200,Summary,255.2,46.9,0.2,268.9,48.5,0.2,13.7,5.4,3,1
+"Mining, quarrying, and oil and gas extraction",210000,Summary,2.2,0.4,0.4,2.2,0.4,0.4,-0.1,-3.3,12,2
+Oil and gas extraction,211000,Line Item,1.7,0.3,1.5,1.6,0.3,1.5,-0.1,-5.2,13,3
+Support activities for mining,213000,Line Item,0.5,0.1,0.2,0.5,0.1,0.2,0,7.1,18,3
+Utilities,220000,Summary,0.6,0.1,0.1,0.6,0.1,0.1,0.1,11.4,19,2
+Utilities,221000,Summary,0.6,0.1,0.1,0.6,0.1,0.1,0.1,11.4,20,3
+"Electric power generation, transmission and distribution",221100,Summary,0.4,0.1,0.1,0.4,0.1,0.1,0.1,20,21,4
+Electric power generation,221110,Summary,0.1,0,0.1,0.1,0,0.1,0,52.9,22,5
+Natural gas distribution,221200,Line Item,0.2,0,0.2,0.2,0,0.2,0,-3.8,32,4
+Construction,230000,Summary,12.1,2.2,0.2,12.5,2.2,0.1,0.4,3.2,34,2
+Construction of buildings,236000,Summary,10.6,1.9,0.6,11,2,0.6,0.4,3.4,35,3
+Residential building construction,236100,Line Item,10.5,1.9,1.1,10.8,1.9,1.1,0.4,3.4,36,4
+Nonresidential building construction,236200,Line Item,0.2,0,0,0.2,0,0,0,5.6,37,4
+Heavy and civil engineering construction,237000,Summary,1.5,0.3,0.1,1.5,0.3,0.1,0,1.5,38,3
+Utility system construction,237100,Summary,0.1,0,0,0.1,0,0,0,6.2,39,4
+Power and communication line and related structures construction,237130,Line Item,0.1,0,0,0.1,0,0,0,6.2,40,5
+Land subdivision,237200,Line Item,1.3,0.2,3.5,1.3,0.2,3.5,0,1.1,42,4
+Manufacturing,31-330,Summary,0.1,0,0,0.1,0,0,0,2.4,60,2
+Wholesale trade,420000,Summary,0.1,0,0,0.1,0,0,0,4,143,2
+"Merchant wholesalers, durable goods",423000,Summary,0.1,0,0,0.1,0,0,0,3.8,144,3
+Retail trade,44-450,Summary,0.3,0.1,0,0.3,0.1,0,0,-1.3,158,2
+"All other retail trade (444, 449, 456-9)",4445R0,Summary,0.3,0.1,0,0.3,0.1,0,0,-1.2,167,3
+"Sporting goods, hobby, musical instrument, book, and miscellaneous retailers",459000,Summary,0.3,0.1,0,0.3,0.1,0,0,-1.2,185,4
+Miscellaneous store retailers (4594 and 4595 only),4590A1,Line Item,0.2,0,0,0.1,0,0,0,-5.5,190,5
+Other miscellaneous retailers,459900,Line Item,0.1,0,0,0.1,0,0,0,3.5,191,5
+Transportation and warehousing,48-490,Summary,0.1,0,0,0.1,0,0,0,5.2,192,2
+Pipeline transportation,486000,Summary,0.1,0,0.1,0.1,0,0.1,0,5,208,3
+Information,510000,Summary,0.1,0,0,0.1,0,0,0,-2.9,228,2
+"Publishing, broadcasting, and content providers",5136-9,Summary,0.1,0,0,0.1,0,0,0,-2.9,234,3
+Telecommunications,517000,Line Item,0.1,0,0,0.1,0,0,0,-7.2,243,4
+Finance and insurance,520000,Summary,3.9,0.7,0.1,4.4,0.8,0.1,0.5,12.8,245,2
+"Monetary authorities - central bank, and credit intermediation and related activities",521-20,Summary,1.1,0.2,0,1.2,0.2,0,0.1,6,246,3
+Credit intermediation and related activities,522000,Summary,1.1,0.2,0,1.2,0.2,0,0.1,6,248,4
+Nondepository credit intermediation,522200,Summary,0.5,0.1,0.1,0.5,0.1,0.1,0,6.4,249,5
+Other nondepository credit intermediation,522290,Line Item,0.5,0.1,0.1,0.5,0.1,0.1,0,6.5,250,6
+"Credit intermediation and related activities (5221,3)",5220A1,Line Item,0.6,0.1,0,0.6,0.1,0,0,5.6,252,5
+Insurance carriers and related activities,524000,Summary,0.6,0.1,0,0.6,0.1,0,0,8.6,253,3
+Insurance agencies and brokerages,524210,Line Item,0.3,0.1,0,0.4,0.1,0,0,10,259,5
+"Securities, commodity contracts, fund, trusts and other financial investments and vehicles and related activities","523,50",Summary,2.2,0.4,0.2,2.6,0.5,0.2,0.4,17.2,261,3
+"Securities, commodity contracts, and other financial investments and related activities",523000,Line Item,2,0.4,0.2,2.4,0.4,0.2,0.4,17.9,262,4
+"Funds, trusts, and other financial vehicles",525000,Summary,0.2,0,0.6,0.2,0,0.6,0,9.7,263,4
+Other investment pools and funds,525900,Line Item,0.2,0,1,0.2,0,1,0,9.7,265,5
+Real estate and rental and leasing,530000,Summary,213.9,39.3,8.7,225.7,40.7,8.8,11.7,5.5,266,2
+Real estate,531000,Line Item,213.7,39.3,11.5,225.4,40.7,11.7,11.7,5.5,267,3
+Lessors of nonfinancial intangible assets (except copyrighted works),533000,Line Item,0.1,0,0.3,0.1,0,0.3,0,-5.7,271,3
+"Professional, scientific, and technical services",540000,Summary,4.2,0.8,0,4.6,0.8,0,0.4,9.5,272,2
+"Professional, scientific, and technical services",541000,Summary,4.2,0.8,0,4.6,0.8,0,0.4,9.5,273,3
+Legal services,541100,Line Item,1.2,0.2,0.1,1.3,0.2,0.1,0.1,5.6,274,4
+"Architectural, engineering, and related services",541300,Summary,0.6,0.1,0,0.7,0.1,0,0,5.5,276,4
+Engineering services,541330,Line Item,0.5,0.1,0,0.6,0.1,0,0,5.5,278,5
+"Advertising, public relations, and related services",541800,Line Item,0.2,0,0,0.2,0,0,0,8.1,287,4
+Management of companies and enterprises,550000,Summary,3.1,0.6,0.1,3.4,0.6,0.1,0.2,7.7,292,2
+Management of companies and enterprises,551000,Line Item,3.1,0.6,0.1,3.4,0.6,0.1,0.2,7.7,293,3
+"Educational services; state, local, and private",610000,Summary,0.1,0,0,0.1,0,0,0,3.3,315,2
+"Educational services; state, local, and private",611000,Summary,0.1,0,0,0.1,0,0,0,3.3,316,3
+Educational services; state and local,6110Y0,Summary,0.1,0,0,0.1,0,0,0,5,327,4
+"Junior colleges, colleges, universities, and professional schools; state and local (6112,3)",6110Y1,Summary,0.1,0,0,0.1,0,0,0,5.4,330,5
+"Colleges, universities, and professional schools; state",61130S,Line Item,0.1,0,0,0.1,0,0,0,5.5,333,6
+Healthcare and social assistance,620000,Summary,0.4,0.1,0,0.5,0.1,0,0,9.8,344,2
+Nursing and residential care facilities,623000,Summary,0.3,0.1,0,0.3,0.1,0,0,11,374,3
+Continuing care retirement communities and assisted living facilities for the elderly,623300,Line Item,0.3,0,0,0.3,0.1,0,0,12.9,379,4
+Social assistance,624000,Summary,0.1,0,0,0.1,0,0,0,7.1,381,3
+"Community food and housing, emergency and other relief services, and vocational rehabilitation services",6242-3,Summary,0.1,0,0,0.1,0,0,0,6.6,385,4
+"Community food and housing, and emergency and other relief services",624200,Line Item,0.1,0,0,0.1,0,0,0,8,386,5
+"Arts, entertainment, and recreation",710000,Summary,0.1,0,0,0.1,0,0,0,7.8,389,2
+"Amusement, gambling, and recreation industries",713000,Summary,0.1,0,0,0.1,0,0,0,7.2,400,3
+Other amusement and recreation industries,713900,Summary,0.1,0,0,0.1,0,0,0,7.2,403,4
+Accommodation and food services,720000,Summary,0.2,0,0,0.2,0,0,0,8.7,406,2
+Accommodation,721000,Summary,0.2,0,0,0.2,0,0,0,8.7,407,3
+Traveler accommodation,721100,Summary,0.1,0,0,0.1,0,0,0,12.8,408,4
+Other services (except public administration),810000,Summary,0.9,0.2,0,0.9,0.2,0,0,4.7,419,2
+"Religious, grantmaking, civic, professional, and similar organizations",813000,Summary,0.8,0.1,0,0.8,0.2,0,0,4.8,433,3
+Grantmaking and giving services and social advocacy organizations,8132-3,Summary,0.1,0,0,0.1,0,0,0,8.6,435,4
+Social advocacy organizations,813300,Line Item,0.1,0,0,0.1,0,0,0,8.8,437,5
+"Civic, social, professional, and similar organizations",8134-9,Summary,0.7,0.1,0.1,0.8,0.1,0.1,0,4.5,438,4
+"Business, professional, labor, political, and similar organizations",813900,Summary,0.7,0.1,0.2,0.8,0.1,0.2,0,4.5,440,5
+Government,900000,Summary,7.3,1.3,0.1,7.4,1.3,0.1,0.1,1.8,444,2
+Federal government,910000,Summary,3.5,0.7,0.1,3.5,0.6,0.1,0,0.1,445,3
+"Federal government, excluding postal service",999100,Line Item,3.5,0.7,0.2,3.5,0.6,0.2,0,0.1,447,4
+"State and local government, excluding education and hospitals",9992-3,Summary,3.7,0.7,0,3.9,0.7,0,0.1,3.4,448,3
+"State government, excluding education and hospitals",999200,Line Item,2,0.4,0.1,2.1,0.4,0.1,0.1,2.7,449,4
+"Local government, excluding education and hospitals",999300,Line Item,1.7,0.3,0,1.8,0.3,0,0.1,4.2,450,4
